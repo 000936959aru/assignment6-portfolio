@@ -1,32 +1,38 @@
 [
     {
         "title": "Portfolio",
-        "imageSrc": "projects/project3.png",
-        "description": "Developed a personal portfolio website using React, showcasing my software development projects",
+        "imageSrc": "assignment6-portfolio/projects/project3.png",
+        "description": "Developed a personal portfolio website using React, showcasing my software development projects, with responsive design and interactive features to enhance user experience.",
+
         "skills": [
             "React",
             "Javascript"
         ],
-        "source": "https://www.github.com/Jashan-K-d/portfolio"
+        "source": "https://github.com/000936959aru/Portfolio"
     },
     {
         "title": "Cafe Website",
-        "imageSrc": "projects/project2.jpg",
-        "description": "Built a responsive WordPress website for a local cafe, including features such as an online menu,calendar, and contact forms",
+        "imageSrc": "assignment6-portfolio/projects/project2.jpg",
+        "description": "Built a responsive WordPress website for a local cafe, including features such as an online menu, calendar, and contact forms, and optimized it for mobile devices and search engines."
+,
         "skills": [
             "Wordpress"
         ],
-        "source": "https://www.github.com/Jashan-K-d/cafe-website"
+        "source": "https://github.com/000936959aru/Cafe-website"
     },
     {
-        "title": "Currency Convertor",
-        "imageSrc": "projects/project1.jpg",
-        "description": "Built a currency converter using HTML, CSS, JavaScript, and a REST API to fetch real-time exchange rates.",
+        "title": "Task Management",
+        "imageSrc": "assignment6-portfolio/projects/project1.jpg",
+        "description": "Built a responsive task management app with React, PHP, MySQL, and AJAX for real-time updates, user authentication, and task operations.",
+
+
         "skills": [
+            "React",
             "Javascript",
-            "API",
-            "HTML/CSS"
+            "PHP",
+            "HTML/CSS",
+            "MY SQl"
         ],
-        "source": "https://www.github.com/Jashan-K-d/currency-convertor"
+        "source": "https://github.com/000936959aru/Task-Management"
     }
 ]

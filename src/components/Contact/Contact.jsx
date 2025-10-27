@@ -12,19 +12,19 @@ export const Contact = () => {
             </div>
             <ul className={styles.links}>
                 <li className={styles.link}>
-                    <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-                    <a href="mailto:jashanjot-kaur.dhillon@mohawkcollege.ca">jashanjot-kaur.dhillon@mohawkcollege.ca</a>
+                    <img src={getImageUrl("assignment6-portfolio/contact/emailIcon.png")} alt="Email icon" />
+                    <a href="mailto:aruveer-kaur.brar@mohawkcollege.ca">aruveer-kaur.brar@mohawkcollege.ca</a>
                 </li>
                 <li className={styles.link}>
                     <img
-                        src={getImageUrl("contact/linkedinIcon.png")}
+                        src={getImageUrl("assignment6-portfolio/contact/linkedinIcon.png")}
                         alt="LinkedIn icon"
                     />
-                    <a href="https://www.linkedin.com/in/jashanjot-dhillon-954338290/">linkedin.com/jashanjot-dhillon</a>
+                    <a href="https://ca.linkedin.com/in/aruveer-brar-488b75282">linkedin.com/Aruveer Brar</a>
                 </li>
                 <li className={styles.link}>
-                    <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-                    <a href="https://github.com/Jashan-k-d">github.com/Jashan-K-d</a>
+                    <img src={getImageUrl("assignment6-portfolio/contact/githubIcon.png")} alt="Github icon" />
+                    <a href="https://github.com/000936959aru">github.com/aruveer-K-B</a>
                 </li>
             </ul>
         </footer>

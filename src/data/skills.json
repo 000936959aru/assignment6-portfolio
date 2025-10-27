@@ -20,8 +20,8 @@
         "imageSrc": "skills/java.png"
     },
     {
-        "title": ".NET",
-        "imageSrc": "skills/dotnet.jpg"
+        "title": "Node.js",
+        "imageSrc": "skills/nodejs.jpg.webp"
     },
     {
         "title": "PHP",
@@ -34,5 +34,9 @@
     {
         "title": "Wordpress",
         "imageSrc": "skills/wordpress.png"
+    },
+    {
+        "title": "MongoDB",
+        "imageSrc": "skills/mongodb.avif"
     }
 ]

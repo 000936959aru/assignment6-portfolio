@@ -2,21 +2,24 @@
     {
         "role": "Computer Systems Technician Software Support",
         "organisation": "Mohawk College",
-        "startDate": "Jan 2024",
+        "startDate": "sept 2024",
         "endDate": "Present",
         "experiences": [
-            "2 times honored with Dean's honors of Awards "
-        ],
+        "Provide technical support for software and hardware issues, ensuring system functionality.",
+        "Assist in software installations, updates, and troubleshooting for students and faculty.",
+        "Collaborate with IT to maintain system security and perform routine checks."],
         "imageSrc": "history/google.png"
     },
     {
-        "role": "Software Engineering Virtual Experience",
-        "organisation": "Forage",
-        "startDate": "December 2024",
+        "role": "Web developer",
+        "organisation": "Pur-logic Solution Inc",
+        "startDate": "Jan 2025",
         "endDate": "Present",
-        "experiences": [
-            "Proposed features, created diagrams, and optimized code for The Sims 4 using C#."
-        ],
-        "imageSrc": "history/electronic-arts.png"
-    }
+        "experiences": ["Managed and maintained the company’s website using WordPress,ensuring seamless user experience and up-to-date content","Led the development of the Riipen project in collaboration with the team, enhancing website functionality and optimizing for mobile responsiveness.", "Utilized various software tools to streamline content management, implement updates, and improve website performance, ultimately boosting user engagement."],
+        
+        "imageSrc": "history/electronic-arts.png"    
+      }
+        
+        
+    
 ]

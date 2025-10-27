@@ -18,6 +18,10 @@
     color: var(--color-text);
     z-index: 1;
 }
+.heroImg{
+    height:750px;
+    
+}
 
 .title {
     font-size: 72px;
